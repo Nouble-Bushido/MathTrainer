@@ -20,9 +20,18 @@ As you reach higher scores, the difficulty level increases, providing a greater 
 If you run out of lives, you have to start over from the beginning.
 Enjoy improving your math skills and challenging yourself with Math Trainer!
 
+Artem Chzhen
+
+Contact:
+
+[LinkedIn](https://www.linkedin.com/in/artem-chzhen-2926b7264/)
+
+[artchzhen@gmail.com](mailto:artchzhen@gmail.com)
+
+[@ArtChzhen](https://t.me/ArtChzhen)
 
 Screenshots
-![Simulator Screenshot - Iphone Xr - 2023-07-17 at 10 17 36](https://github.com/Artem-Chzh/MathTrainer/assets/117162015/28af81a3-b1ce-4ca9-a033-b4a4bc47d162)
+###![Simulator Screenshot - Iphone Xr - 2023-07-17 at 10 17 36](https://github.com/Artem-Chzh/MathTrainer/assets/117162015/28af81a3-b1ce-4ca9-a033-b4a4bc47d162)
 
 ![Simulator Screenshot - Iphone Xr - 2023-07-17 at 10 18 43](https://github.com/Artem-Chzh/MathTrainer/assets/117162015/a5acc7e1-9ebc-4f47-9ccb-1110d583fee9)
 
