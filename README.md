@@ -45,6 +45,3 @@ Contact:
 [artchzhen@gmail.com](mailto:artchzhen@gmail.com)
 
 [@ArtChzhen](https://t.me/ArtChzhen)
-
-License
-This project is licensed under the MIT License.
